@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kenolsph
+- 👋 Hi, I’m @isaac.dev
 - 👀 I’m interested in Python and association of python developers
 - - 🌱 I’m currently learning python and react
 - 💞️ I’m looking to collaborate on parcel delivery system
