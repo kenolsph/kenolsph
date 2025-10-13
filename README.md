@@ -14,4 +14,3 @@ Purpose-driven projects, personal growth, and creative ways to use tech for good
 I’m a detail person — I pick up on small things like tone, rhythm, and vibe. I love turning simple moments into something that feels intentional and cinematic.
 
 
-Socials
