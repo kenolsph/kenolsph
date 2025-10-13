@@ -1,5 +1,6 @@
 🔭 I’m currently working on
 Building projects that merge creativity, technology, and impact — from web development to ideas that help people and communities grow.
+
 🤝 I’m looking for help with
 Exploring new ways to make meaningful tech — especially projects that blend design, storytelling, and problem-solving.
 🌱 I’m currently learning
