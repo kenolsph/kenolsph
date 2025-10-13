@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @isaac.dev
-- 👀 I’m interested in Python and association of python developers
-- - 🌱 I’m currently learning python and react
-- 💞️ I’m looking to collaborate on parcel delivery system
-- 📫 How to reach me snap: newintony,  whatsaap 09066579652
-
-<!---
-kenolsph/kenolsph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 I’m currently working on
+Building projects that merge creativity, technology, and impact — from web development to ideas that help people and communities grow.
+🤝 I’m looking for help with
+Exploring new ways to make meaningful tech — especially projects that blend design, storytelling, and problem-solving.
+🌱 I’m currently learning
+How to refine my craft as a software engineer, communicate my ideas better, and stay consistent while chasing long-term goals.
+💬 Ask me about
+Purpose-driven projects, personal growth, and creative ways to use tech for good.
+⚡ Fun fact
+I’m a detail person — I pick up on small things like tone, rhythm, and vibe. I love turning simple moments into something that feels intentional and cinematic.
