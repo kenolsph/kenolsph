@@ -1,4 +1,4 @@
-🔭 I’m currently working on
+🔭 I currently working on
 Building projects that merge creativity, technology, and impact — from web development to ideas that help people and communities develop.
 
 🤝 I’m looking for help with
