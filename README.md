@@ -8,7 +8,7 @@ Exploring new ways to make meaningful tech — especially projects that blend de
 How to refine my craft as a software engineer, communicate my ideas better, and stay consistent while chasing long-term goals.
 
 💬 Ask me about
-Purpose-d riven projects, personal growth, and creative ways to use tech for good.
+Purpose-driven projects, personal growth, and creative ways to use tech for good.
 
 ⚡ Fun fact
 I’m a detail person — I pick up on small things like tone, rhythm, and vibe. I like turning simple moments into something that feels intentional and cinematic.
