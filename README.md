@@ -5,7 +5,7 @@ Building projects that merge creativity, technology, and impact — from web dev
 Exploring new ways to make meaningful tech — especially projects that blend design, storytelling, and problem-solving.
 
 🌱 I’m currently learning
-How to refine my cr aft as a software engineer, communicate my ideas better, and stay consistent while chasing long-term goals.
+How to refine my craft as a software engineer, communicate my ideas better, and stay consistent while chasing long-term goals.
 
 💬 Ask me about
 Purpose-driven projects, personal growth, and creative ways to use tech for good.
