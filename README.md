@@ -3,7 +3,7 @@
 Software Engineering
 
 🧑🏾‍💻 Frontend Developer
-🙋🏾‍♂️ Data Analytics
+ 🙋🏾‍♂️ Data Analytics
 
 
 
