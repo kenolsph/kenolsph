@@ -29,7 +29,6 @@ Software Engineer
 ### 📊 GitHub Stats
 ![kenolsph's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenolsph&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kenolsph&theme=radical)](https://git.io/streak-stats)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kenolsph&color=blue)
 
