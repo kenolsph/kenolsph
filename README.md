@@ -29,8 +29,5 @@ Software Engineer
 ### 📊 GitHub Stats
 ![kenolsph's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenolsph&show_icons=true&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kenolsph&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
