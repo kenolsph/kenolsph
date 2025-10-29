@@ -1,10 +1,14 @@
 # Hi there, I'm Isaac 👋 
 
 Software Engineering
+
 🧑🏾‍💻 Frontend Developer
+
 🙋🏾‍♂️ Data Analytics
+
  I design and code various websites
- Data Visualization, Tableau
+ 
+ Data Visualization
 
 
 
