@@ -34,6 +34,4 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kenolsph&theme=radical)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=kenolsph&theme=radical&hide_border=false)](https://git.io/streak-stats)
