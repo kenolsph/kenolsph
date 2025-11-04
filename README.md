@@ -1,7 +1,7 @@
 # Hi there, I'm Isaac 👋 
 
  Software Engineer
-
+ 
 🧑🏾‍💻 Frontend Developer 
  
 🙋🏾‍♂️ Data Analytics
