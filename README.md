@@ -2,7 +2,7 @@
 
  Software Engineer 
  
-🧑🏾‍💻 Frontend Developer 
+🧑🏾‍💻 Frontend Developer
  
 🙋🏾‍♂️ Data Analytics 
 
