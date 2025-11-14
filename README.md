@@ -1,6 +1,6 @@
 # Hi there, I'm Isaac 👋 
 
- Software Engineer
+ Software Engineer 
  
 🧑🏾‍💻 Frontend Developer 
  
