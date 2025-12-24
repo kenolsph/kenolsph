@@ -26,7 +26,7 @@
 
 
 ### 📊 GitHub Stats
-![Kenolsph GitHub stats](https://github-readme-stats.vercel.app/api?username=kenolsph&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenolsph&show_icons=true&bg_color=00000000)
 
  
 ![Profile views](https://komarev.com/ghpvc/?username=kenolsph&color=blue)
