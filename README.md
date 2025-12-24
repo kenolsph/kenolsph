@@ -24,10 +24,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-
-### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenolsph&show_icons=true&bg_color=00000000)
-
  
 ![Profile views](https://komarev.com/ghpvc/?username=kenolsph&color=blue)
 
