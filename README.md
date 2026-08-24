@@ -24,7 +24,7 @@ Software Engineer
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Python](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/Csharp-35495E?style=for-the-badge&logo=csharp&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-35495E?style=for-the-badge&logo=c&logoColor=61DAFB)
 
 ![Profile views](https://komarev.com/ghpvc/?username=kenolsph&color=blue)
 
