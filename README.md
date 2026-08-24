@@ -23,6 +23,7 @@ Software Engineer
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Python](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=python&logoColor=white)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=kenolsph&color=blue)
