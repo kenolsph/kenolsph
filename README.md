@@ -23,16 +23,12 @@ Building **frontend systems**, **terminal applications**, and **web apps**.
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+  <img src="https://img.shields.io/badge/-typescript-0d1117?style=for-the-badge&logo=typescript&logoColor=2C2D72" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=FFCA28" /
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143" />
-  <img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=483699" />
 </div>
 
 
