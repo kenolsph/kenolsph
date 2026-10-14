@@ -8,7 +8,7 @@
 Building **frontend systems**, **terminal applications**, and **web apps**.
 
 <!---*Build technology that serves people and honors God.*-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=I+have+a+vested+interest+in+making+my+own+life+hard.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=Build+technology+that+serves+people+and+honors+God.)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/Blogs-18181a?style=for-the-badge&logo=googlechrome&logoColor=6a6a6c)](https://heyamit.dev/blog)
 [![Reddit](https://img.shields.io/badge/X-18181a?style=for-the-badge&logo=X&logoColor=6a6a6c)](https://x.com/amitwt)
