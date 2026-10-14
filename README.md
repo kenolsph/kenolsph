@@ -3,9 +3,9 @@
 <!--- [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=building+things+I+wish+existed.;terminal+first%2C+always.)](https://git.io/typing-svg)
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=18181a&text=johhn&textBg=false&reversal=false&fontAlign=50&fontAlignY=49&animation=fadein&fontColor=6a6a6c" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=18181a&text=tolu&textBg=false&reversal=false&fontAlign=50&fontAlignY=49&animation=fadein&fontColor=6a6a6c" />
 
-Building **backend systems**, **terminal applications**, and **mobile apps**.
+Building **frontend systems**, **terminal applications**, and **web apps**.
 
 <!---*I have a vested interest in making my own life hard.*-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=I+have+a+vested+interest+in+making+my+own+life+hard.)](https://git.io/typing-svg)
