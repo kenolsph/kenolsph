@@ -22,7 +22,7 @@ Building **frontend systems**, **terminal applications**, and **web apps**.
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
