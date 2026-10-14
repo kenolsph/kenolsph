@@ -1,33 +1,45 @@
-# Hi there, I'm Isaac 👋
+<div align="center">
 
-Software Engineer
+<!--- [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=building+things+I+wish+existed.;terminal+first%2C+always.)](https://git.io/typing-svg)
+-->
 
-🧑🏾‍💻 Frontend Developer
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=18181a&text=vyrx&textBg=false&reversal=false&fontAlign=50&fontAlignY=49&animation=fadein&fontColor=6a6a6c" />
 
-🙋🏾‍♂️ Data Analytics
+Building **backend systems**, **terminal applications**, and **mobile apps**.
 
+<!---*I have a vested interest in making my own life hard.*-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=I+have+a+vested+interest+in+making+my+own+life+hard.)](https://git.io/typing-svg)
 
-### 🌐 Connect with me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-adebisi/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ii.tolu)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feluopi@gmail.com)
+[![Website](https://img.shields.io/badge/Blogs-18181a?style=for-the-badge&logo=googlechrome&logoColor=6a6a6c)](https://heyamit.dev/blog)
+[![Reddit](https://img.shields.io/badge/X-18181a?style=for-the-badge&logo=X&logoColor=6a6a6c)](https://x.com/amitwt)
+[![Discord](https://img.shields.io/badge/Discord-18181a?style=for-the-badge&logo=discord&logoColor=6a6a6c)](https://discord.com/users/1087059817367080980)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-18181a?style=for-the-badge&logo=kofi&logoColor=6a6a6c)](https://ko-fi.com/vyrxx)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-18181a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=6a6a6c)](https://buymeacoffee.com/vyrx)
 
-
-
-### 🧰 Tech Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Python](https://img.shields.io/badge/Python-35495E?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/C-35495E?style=for-the-badge&logo=c&logoColor=61DAFB)
-
-![Profile views](https://komarev.com/ghpvc/?username=kenolsph&color=blue)
+<!-- <div align="center"> -->
+<!--   <img src="https://custom-icon-badges.demolab.com/github/stars/vyrx-dev?color=0d1117&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=E3B341&label=Total%20Stars" /> -->
+<!-- </div> -->
 
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
+  <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  <img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=483699" />
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=kenolsph&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=vyrx-dev&bg_color=0d1117&color=8b949e&line=8b949e&point=8b949e&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" /> -->
+
+
+<!-- <img src="https://api.visitorbadge.io/api/visitors?path=theamit-969&labelColor=%230d1117&countColor=%232d333b&style=for-the-badge&labelStyle=upper" /> -->
+
+</div>
