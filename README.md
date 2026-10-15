@@ -10,11 +10,8 @@ Building **frontend systems**, **terminal applications**, and **web apps**.
 <!---*Build technology that serves people and honors God.*-->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1200&color=AAAAAA&center=true&vCenter=true&width=500&lines=Build+technology+that+serves+people+and+honors+God.)](https://git.io/typing-svg)
 
-[![Website](https://img.shields.io/badge/Blogs-18181a?style=for-the-badge&logo=googlechrome&logoColor=6a6a6c)](https://heyamit.dev/blog)
 [![Instagram](https://img.shields.io/badge/instagram-18181a?style=for-the-badge&logo=instagram&logoColor=6a6a6c)](https://www.instagram.com/ii.tolu)
-[![Linkedln](https://img.shields.io/badge/linkedin-18181a?style=for-the-badge&logo=linkedin&logoColor=6a6a6c)](https://www.linkedin.com/in/isaac-adebisi)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-18181a?style=for-the-badge&logo=kofi&logoColor=6a6a6c)](https://ko-fi.com/vyrxx)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-18181a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=6a6a6c)](https://buymeacoffee.com/vyrx)
+[!linkedin](https://img.shields.io/badge/linkedin-18181a?style=for-the-badge&logo=linkedin&logoColor=6a6a6c)](https://www.linkedin.com/in/isaac-adebisi)
 
 <!-- <div align="center"> -->
 <!--   <img src="https://custom-icon-badges.demolab.com/github/stars/vyrx-dev?color=0d1117&style=for-the-badge&labelColor=0d1117&logo=star&logoColor=E3B341&label=Total%20Stars" /> -->
