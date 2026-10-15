@@ -24,8 +24,9 @@ Building **frontend systems**, **terminal applications**, and **web apps**.
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/-typescript-0d1117?style=for-the-badge&logo=typescript&logoColor=2C2D72" />
   <img src="https://img.shields.io/badge/-tailwind-0d1117?style=for-the-badge&logo=tailwind&logoColor=2C2D72" />
+  <img src="https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/nodejs-0d1117?style=for-the-badge&logo=nodejs&logoColor=FFCA28" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react&logoColor=FFCA28" /
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
 </div>
 
