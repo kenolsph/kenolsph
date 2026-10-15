@@ -28,6 +28,7 @@ Building **frontend systems**, **terminal applications**, and **web apps**.
   <img src="https://img.shields.io/badge/nodejs-0d1117?style=for-the-badge&logo=nodejs&logoColor=FFCA28" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=00ADD8" />
 </div>
 
 
