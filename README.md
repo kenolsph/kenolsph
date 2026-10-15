@@ -12,7 +12,7 @@ Building **frontend systems**, **terminal applications**, and **web apps**.
 
 [![Website](https://img.shields.io/badge/Blogs-18181a?style=for-the-badge&logo=googlechrome&logoColor=6a6a6c)](https://heyamit.dev/blog)
 [![Instagram](https://img.shields.io/badge/instagram-18181a?style=for-the-badge&logo=instagram&logoColor=6a6a6c)](https://www.instagram.com/ii.tolu)
-[![Linkedln](https://img.shields.io/badge/linkedln-18181a?style=for-the-badge&logo=linkedln&logoColor=6a6a6c)](https://www.linkedln.com/in/isaac-adebisi)
+[![Linkedln](https://img.shields.io/badge/linkedin-18181a?style=for-the-badge&logo=linkedin&logoColor=6a6a6c)](https://www.linkedin.com/in/isaac-adebisi)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-18181a?style=for-the-badge&logo=kofi&logoColor=6a6a6c)](https://ko-fi.com/vyrxx)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-18181a?style=for-the-badge&logo=buy-me-a-coffee&logoColor=6a6a6c)](https://buymeacoffee.com/vyrx)
 
